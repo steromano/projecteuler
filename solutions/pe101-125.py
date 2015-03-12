@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 20 11:13:02 2014
-
-@author: ste
-"""
-
 import numpy as np
 
 # Problem 101 -----------------------------------------------------------------
